@@ -1,0 +1,9 @@
+[submodule "lighthouse-microapp-server"]
+	path = lighthouse-microapp-server
+	url = git@github.com:gary-jipp/lighthouse-microapp-server.git
+[submodule "lighthouse-microapp-jquery"]
+	path = lighthouse-microapp-jquery
+	url = git@github.com:gary-jipp/lighthouse-microapp-jquery.git
+[submodule "lighthouse-microapp-react"]
+	path = lighthouse-microapp-react
+	url = git@github.com:gary-jipp/lighthouse-microapp-react.git
